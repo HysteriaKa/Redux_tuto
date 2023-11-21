@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "title": "Lorem ipsum dolor sit amet",
+      "author": "Patrice",
+      "likes": 28,
+      "id": "1"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet dolor sit amet",
+      "author": "Samia",
+      "likes": 17,
+      "id": "2"
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "author": "Denis",
+      "likes": 108,
+      "id": "3"
+    },
+    {
+      "title": "test18",
+      "author": "user42",
+      "likes": 2,
+      "id": "NTklBXL"
+    },
+    {
+      "title": "Encore un article",
+      "author": "user42",
+      "likes": 1,
+      "id": "ECI_Mzh"
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "user42",
+      "likes": 0,
+      "age": 30,
+      "id": 1
+    }
+  ]
+}
